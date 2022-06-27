@@ -3,6 +3,41 @@
     font-family: 'Courier New', Courier, monospace;
 }
 .head {
+    font-size: 60px;
     text-align: center;
-    
+}
+
+#mainhead {
+    font-size: 60px;
+    text-align: center;
+    position: relative;
+    top: -60px;
+}
+
+.recipelink {
+    font-size: 38px;
+    color: black;
+}
+
+h3 {
+    font-size: 28px;
+    color: black;
+}
+
+.home {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+
+.logo{
+    width: 100px;
+    height:100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#recipelinksandwich{
+    text-align: center;
 }
