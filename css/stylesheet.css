@@ -30,6 +30,10 @@ h3 {
     color: black;
     font-size: 18px;
     text-align: center;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .logo{
@@ -46,6 +50,7 @@ h3 {
     text-align: center;
     position: relative;
     top: 80px;
+    text-decoration: none;
 }
 
 .korean {
@@ -54,12 +59,14 @@ h3 {
     text-align: center;
     position: relative;
     top: 160px;
+    text-decoration: none;
 }
 
 .sandwich {
     font-size: 32px;
     color: black;
     text-align: center;
+    text-decoration: none;
 }
 
 #credit {
@@ -79,5 +86,13 @@ h3 {
     font-size: 18px;
     text-align: center;
     position: relative;
-    top: 125px;
+    top: 100px;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+a:hover {
+    font-size: 115%;
 }
