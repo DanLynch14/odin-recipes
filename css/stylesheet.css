@@ -18,10 +18,8 @@
     color: black;
     text-align: center;
     list-style: none;
-    position: relative;
     top: 50px;
-    margin-left: auto;
-    margin-right: auto;
+    position: relative;
 }
 
 h3 {
@@ -48,7 +46,7 @@ h3 {
 }
 
 .parm{
-    width: 1450;
+    width: 1349px;
     font-size: 32px;
     color: black;
     text-align: center;
@@ -58,6 +56,7 @@ h3 {
 }
 
 .korean {
+    width: 1349px;
     font-size: 32px;
     color: black;
     text-align: center;
@@ -67,6 +66,7 @@ h3 {
 }
 
 .sandwich {
+    width: 1349px;
     font-size: 32px;
     color: black;
     text-align: center;
@@ -78,7 +78,7 @@ h3 {
     color: white;
     margin-left: auto;
     position: absolute;
-    bottom: 1px;
+    bottom: -30px;
 }
 
 .chicken {
